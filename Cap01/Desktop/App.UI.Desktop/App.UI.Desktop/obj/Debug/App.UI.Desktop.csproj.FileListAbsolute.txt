@@ -1,0 +1,13 @@
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe.config
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.exe
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.UI.Desktop.pdb
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csprojAssemblyReference.cache
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.Form1.resources
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.Properties.Resources.resources
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.GenerateResource.cache
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.CoreCompileInputs.cache
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.exe
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.pdb
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.Entities.Base.dll
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\bin\Debug\App.Entities.Base.pdb
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.CopyComplete

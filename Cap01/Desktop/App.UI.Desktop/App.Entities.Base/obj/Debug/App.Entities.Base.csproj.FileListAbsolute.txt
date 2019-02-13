@@ -1,0 +1,6 @@
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\vsdeveloper2017\Labs\Cap01\Desktop\App.UI.Desktop\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

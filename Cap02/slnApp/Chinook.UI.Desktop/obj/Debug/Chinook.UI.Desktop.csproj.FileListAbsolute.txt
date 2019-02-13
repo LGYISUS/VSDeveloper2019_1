@@ -1,0 +1,15 @@
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\bin\Debug\Chinook.UI.Desktop.exe.config
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\bin\Debug\Chinook.UI.Desktop.exe
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\bin\Debug\Chinook.UI.Desktop.pdb
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\bin\Debug\Chinook.Data.dll
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\bin\Debug\Chinook.Entities.dll
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\bin\Debug\Chinook.Data.pdb
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\bin\Debug\Chinook.Entities.pdb
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\obj\Debug\Chinook.UI.Desktop.csprojAssemblyReference.cache
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\obj\Debug\Chinook.UI.Desktop.Form1.resources
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\obj\Debug\Chinook.UI.Desktop.Properties.Resources.resources
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\obj\Debug\Chinook.UI.Desktop.csproj.GenerateResource.cache
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\obj\Debug\Chinook.UI.Desktop.csproj.CoreCompileInputs.cache
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\obj\Debug\Chinook.UI.Desktop.csproj.CopyComplete
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\obj\Debug\Chinook.UI.Desktop.exe
+C:\vsdeveloper2017\Labs\Cap02\slnApp\Chinook.UI.Desktop\obj\Debug\Chinook.UI.Desktop.pdb
